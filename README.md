@@ -10,4 +10,4 @@ me know.
 * xen-orchestra
   * A Debian Jessie image (the base image is the docker-debian-nodejs image
     above) running xen-orchestra on port 80. Check it out at
-    [https://xen-orchestra.com/](xen-orchestra.com).
+    [xen-orchestra.com](https://xen-orchestra.com/).
